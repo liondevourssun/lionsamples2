@@ -1,6 +1,6 @@
 {"_base":"https://raw.githubusercontent.com/liondevourssun/lionsamples2/main/",
 
-  "amb9":["sounds/ambience_9.wav"],
-  "guitd":["sounds/guit-d-oct.wav"],
-  "glass":["sounds/sing_glass.wav"]
+  "amb9":["ambience_9.wav"],
+  "guitd":["guit-d-oct.wav"],
+  "glass":["sing_glass.wav"]
 }
